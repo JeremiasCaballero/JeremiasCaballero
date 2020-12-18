@@ -17,7 +17,7 @@
 
 <h2 aling="left">Tecnologies
 
-   <img height="50" width="40" src="https://i.imgur.com/tkBeZ31.png"></img
+   <img height="50" width="40" src="https://i.imgur.com/tkBeZ31.png"></img>
 </h2>
  <hr>
  <p aling="left">
