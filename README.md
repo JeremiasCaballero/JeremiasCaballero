@@ -1,6 +1,7 @@
 <h1 align="center"> Hi i'm Jeremias 👋 </h1>
 
 <h2 aling="left"> Who I'am?</h2>
+<hr>
 <p aling="left"> I'am a initiated in web programming, I have knowledge in back-end using tecnologies as Laravel and NodeJs.</p>
 <p> In front-end I have experience with frameworks as ReactJs and VueJS</p>
 
@@ -15,9 +16,10 @@
 </p>
 
 <h2 aling="left">Tecnologies
- <hr>
+
    <img height="50" width="40" src="https://i.imgur.com/tkBeZ31.png"></img
 </h2>
+ <hr>
  <p aling="left">
    <a href="">
         <img height="50" width="40" src="https://i.imgur.com/Wt2jMGJ.png" </img>
