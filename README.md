@@ -15,6 +15,7 @@
 </p>
 
 <h2 aling="left">Tecnologies
+ <hr>
    <img height="50" width="40" src="https://i.imgur.com/tkBeZ31.png"></img
 </h2>
  <p aling="left">
