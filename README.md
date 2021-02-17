@@ -15,7 +15,7 @@
 <img src="https://i.imgur.com/HfN6WE4.png" height=50></img></a>  <a href="https://www.linkedin.com/in/jeremias-caballero-celan-8211b11a8/ "><img src="https://i.imgur.com/WTNceII.png" height=50></img></a>
 </p>
 
-<h2 aling="left">Tecnologies
+<h2 aling="left">Technologies
    <img height="50" width="40" src="https://i.imgur.com/tkBeZ31.png"></img>
 </h2>
  <p aling="left">
