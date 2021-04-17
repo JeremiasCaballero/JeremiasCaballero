@@ -2,8 +2,7 @@
 
 <h2 aling="left"> Who I'am?</h2>
 <hr>
-<p aling="left"> I'am a initiated in web programming, I have knowledge in back-end using tecnologies as Laravel and NodeJs.</p>
-<p> In front-end I have experience with frameworks as ReactJs and VueJS</p>
+<p aling="left"> I'am a initiated in web programming, I have knowledge in back-end using tecnologies as Laravel, Symfony, Spring and Golang.</p>
 
 
 
