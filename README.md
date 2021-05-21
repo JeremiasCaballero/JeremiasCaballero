@@ -1,6 +1,6 @@
 <h1 align="center"> Hi i'm Jeremias 👋 </h1>
 
-<h2 aling="left"> Who I'am?</h2>
+<h2 aling="left"> Who am I?</h2>
 <hr>
 <p aling="left"> I'am a initiated in web programming, I have knowledge in back-end using tecnologies as Laravel, Symfony, Spring and Golang.</p>
 
